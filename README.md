@@ -12,7 +12,7 @@ Based on the following Wikipedia article https://en.wikipedia.org/wiki/Trefoil_k
 
  ![](donuts.png)
 
-  ![](simple knots.png)
+  ![](simple%20knots.png)
 
 
 ### Mystery Curve
